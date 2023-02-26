@@ -21,4 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rianfirmansyah071020&show_icons=true&locale=en" alt="rianfirmansyah071020" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rianfirmansyah071020&" alt="rianfirmansyah071020" /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6mA7Sz0WwDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
