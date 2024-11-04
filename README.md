@@ -12,7 +12,7 @@
 
 ---
 
-**Mastered Skills**
+## **Mastered Skills**
 
 </div>
 
