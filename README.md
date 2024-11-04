@@ -12,9 +12,7 @@
 
 ---
 
-<p style="font-size: 25px; font-weight: bold; color: #ceb607;">
-Mastered Skills
-</p>
+**Mastered Skills**
 
 </div>
 
